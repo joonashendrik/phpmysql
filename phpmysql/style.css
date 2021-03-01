@@ -1,0 +1,15 @@
+a {
+    color: cadetblue;
+
+}
+header {
+    padding: 1rem;
+    border: cadetblue solid 1px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
